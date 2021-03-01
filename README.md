@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Let's start learning again</h1>
+<h1 align="center">Hi, Let's Start Learning Again</h1>
 <h3 align="center">I know it was hard last time</h3>
 
 - 🔭 Data Intern at **Tech Mahindra**
