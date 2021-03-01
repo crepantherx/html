@@ -1,19 +1,19 @@
 pipeline {
     agent any
     stages {
-        stage('Intro') {
+        stage('Connected to Github') {
                 steps {
                         echo 'HTML DOCUMENTATION'
 			
                 }
         }
-	    stage('Ask'){
+	    stage('Deploying'){
 		    
 		steps {
-			input('Do you want to proceed?')
+			echo 'Deploying...'
         }
 	    }
-        stage('Resources') {
+        stage('Resources Allocation') {
                 steps {
 			echo "Hello"
                         }
