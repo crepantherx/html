@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Let's start learning again</h1>
-<h3 align="center">FULL STACK WEB DEVELOPER</h3>
+<h3 align="center">I know it was hard last time</h3>
 
 - 🔭 Intern at **Tech Mahindra Limited**
 
