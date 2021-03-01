@@ -1,7 +1,7 @@
 <h1 align="center">Hi, Let's start learning again</h1>
 <h3 align="center">I know it was hard last time</h3>
 
-- 🔭 Data Intern at **Tech Mahindra Limited**
+- 🔭 Data Intern at **Tech Mahindra**
 
 - 👨‍💻 All of my projects are available at [https://crepantherx.dev/](https://crepantherx.dev/)
 
