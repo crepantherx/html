@@ -1,1 +1,2 @@
 print("blue")
+print("yellow")
