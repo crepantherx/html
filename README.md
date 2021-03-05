@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [http://crepantherx.hashnode.dev/](http://crepantherx.hashnode.dev/)
 
-- 📫 Reach me **crepantherx@gmail.com**
+- 📫 Reach out **crepantherx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
