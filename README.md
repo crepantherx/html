@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Let us Start Learning Again</h1>
-<h3 align="center">I know it was hard last time</h3>
+<h3 align="center">I know it was hardest last time</h3>
 
 - 🔭 Intern at **Tech Mahindra**
 
