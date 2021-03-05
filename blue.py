@@ -6,4 +6,4 @@ print("sudhir")
 print("helm")
 print("Partially Error Resolved")
 print("trying to connect on server jenkins with github")
-hole in my phone
+Problem will be solved if you can just identify the problem
