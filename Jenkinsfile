@@ -1,36 +1,27 @@
 pipeline {
     agent any
     stages {
-        stage('Connected to Github') {
-                steps {
-                        echo 'HTML DOCUMENTATION'
-			
-                }
-        }
-	    stage('Deploying'){
-		    
+	stage('BUILD') {
 		steps {
-			echo 'Deploying...'
-        }
-	    }
-        stage('Resources Allocation') {
-                steps {
-			echo "Hello"
-                        }
-        }
-        stage('Final Stage') {
-                parallel {
-                        stage('Unit Test') {
-                                steps{
-                                        echo "Running the unit test..."
-                                }
-                        }
-                        stage('Integration test') {
-				steps {
-					echo 'Running the integration test..'
-				}
-                               
-			}  }
-        }
+			echo 'Building...'	
+		}
+		steps {
+
+		}
+		steps {
+			echo 'Build Successful'
+		}
+	}
+	stage('UPLOAD TO ARTIFACT') {
+		steps {
+			echo "Uploading..."
+		}
+		steps {
+
+		}
+		steps {
+			echo "Upload Successfull"
+		}
+	}
     }
 }
