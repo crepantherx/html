@@ -1,21 +1,19 @@
 pipeline {
     agent any
     stages {
-	stage('BUILD') {
+        stage('Build') {
+                steps {
+                        echo 'HTML DOCUMENTATION'
+
+                }
+        }
+	    stage('Deploying'){
+
 		steps {
-			echo 'Building...'	
-		}
-		steps {
-			echo 'Build Successful'
-		}
-	}
-	stage('UPLOAD TO ARTIFACT') {
-		steps {
-			echo "Uploading..."
-		}
-		steps {
-			echo "Upload Successfull"
-		}
-	}
+			echo 'Deploying...'
+        }
+	    }
+
+
     }
 }
